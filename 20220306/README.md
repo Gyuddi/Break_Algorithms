@@ -8,3 +8,5 @@
 # 📚 오늘의 문제
 ### 규현
 - 백준 11720번 : [숫자의 합](https://www.acmicpc.net/problem/11720)
+### 경배
+- 백준 11720번 : [숫자의 합](https://www.acmicpc.net/problem/11720)
