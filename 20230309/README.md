@@ -14,6 +14,6 @@
 - 백준 9093번 : [단어 뒤집기](https://www.acmicpc.net/problem/9093)
 - 백준 10809번 : [알파벳 찾기](https://www.acmicpc.net/problem/10809)
 
-### 
+### 경배
 - 백준 9093번 : [단어 뒤집기](https://www.acmicpc.net/problem/9093)
 - 백준 9012번 : [괄호](https://www.acmicpc.net/problem/9012)
