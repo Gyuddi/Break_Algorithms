@@ -23,7 +23,7 @@ public class BOJ_9093_J {
             }
 
             sb.deleteCharAt(sb.length()-1); // 마지막 공백 제거
-            System.out.println(sb);
+            System.out.println(sb); 
         }
     }
 }
