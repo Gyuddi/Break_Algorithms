@@ -5,7 +5,7 @@
 ### 👽 참가자
 ● **nakjun12** 　　　　　　　　　　　　　　　  　　　　　　　　　　　  　　　　　
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=nakjun12)](https://solved.ac/nakjun12)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=wns450)](https://solved.ac/wns450)
 
 ● **Gyuddi** 　　
 
@@ -13,4 +13,8 @@
 
 ● **codemodel6**
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=codemodel6)](https://solved.ac/codemodel6)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kkkb0937)](https://solved.ac/kkkb0937)
+
+● **injongjeon**
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=injongjeon)](https://solved.ac/injongjeon)
