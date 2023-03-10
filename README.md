@@ -17,4 +17,4 @@
 
 ● **injongjeon**
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=injongjeon)](https://solved.ac/injongjeon)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=jeonij23)](https://solved.ac/injongjeon)
