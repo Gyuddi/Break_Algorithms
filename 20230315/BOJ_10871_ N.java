@@ -11,4 +11,3 @@ numArray = numArray.filter((el) => {
 });
 console.log(numArray.join(" "));
 
-//숫자가 스트링으로 인지되었음 주의 할것
