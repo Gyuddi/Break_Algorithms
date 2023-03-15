@@ -6,4 +6,3 @@ var input = require("fs")
 console.log(Math.max(...input));
 console.log(input.indexOf(String(Math.max(...input))) + 1);
 
-//indexof는 문자만 찾음
