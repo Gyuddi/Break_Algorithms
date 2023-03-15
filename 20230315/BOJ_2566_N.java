@@ -3,7 +3,7 @@ const input = require("fs")
   .toString()
   .trim()
   .split("\n");
-let max = 0;
+let max = -1;
 let row = 0;
 let column = 0;
 for (let i = 0; i < input.length; i++) {
