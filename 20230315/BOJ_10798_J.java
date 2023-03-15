@@ -7,7 +7,7 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 public class Main {
-    public static void BOJ_10798_(String[] args) throws IOException {
+    public static void BOJ_10798_J(String[] args) throws IOException {
         //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         Scanner sc = new Scanner(System.in);
         int[][] arr = new int[5][15]; //2차원 배열 생성
