@@ -27,6 +27,7 @@
 - 백준 3052번 : [나머지](https://www.acmicpc.net/problem/3052)
 - 백준 1546번 : [평균](https://www.acmicpc.net/problem/1546)
 - 백준 2738번 : [행렬 덧셈](https://www.acmicpc.net/problem/2738)
+- 백준 2566번 : [최댓값](https://www.acmicpc.net/problem/2566)
 
 ### 인종
 - 백준 10871번 : [X보다 작은 수](https://www.acmicpc.net/problem/10871)
