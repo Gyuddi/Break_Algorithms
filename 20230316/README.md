@@ -12,3 +12,4 @@
 
 ### 규현
 - 백준 1934번 : [최소공배수](https://www.acmicpc.net/problem/1934)
+- 백준 1978번 : [소수 찾기](https://www.acmicpc.net/problem/1978)
