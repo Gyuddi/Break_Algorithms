@@ -13,7 +13,7 @@
 
 ● **codemodel6**
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kkkb0937)](https://solved.ac/kkkb0937)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kkb0937)](https://solved.ac/kkb0937)
 
 ● **injongjeon**
 
