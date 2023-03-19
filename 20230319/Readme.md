@@ -7,4 +7,8 @@
 
 ### 경배
 - 백준 13241번 : [최소공배수](https://www.acmicpc.net/problem/13241)
-- 백준 11653번 : [소인수분해](https://www.acmicpc.net/problem/11653)
+- 백준 1978번 : [소수 찾기](https://www.acmicpc.net/problem/1978)
+
+### 낙준
+- 백준 13241번 : [최소공배수](https://www.acmicpc.net/problem/13241)
+- 백준 1978번 : [소수 찾기](https://www.acmicpc.net/problem/1978)
