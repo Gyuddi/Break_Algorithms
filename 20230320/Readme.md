@@ -8,3 +8,9 @@
 
 ### 낙준
 - 인프런 2강 1~3문제
+- 백준 13241번 : [최소공배수](https://www.acmicpc.net/problem/13241)
+- 백준 11653번 : [소인수분해](https://www.acmicpc.net/problem/11653)
+
+### 경배
+- 백준 13241번 : [최소공배수](https://www.acmicpc.net/problem/13241)
+- 백준 11653번 : [소인수분해](https://www.acmicpc.net/problem/11653)
