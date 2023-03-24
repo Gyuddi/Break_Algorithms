@@ -19,3 +19,9 @@
 - 인프런 02-05 : 소수
 - 인프런 02-06 : 뒤집은 소수
 - 인프런 02-07 : 점수 계산
+
+### 인종
+
+- 백준 1934번 : [최소공배수](https://www.acmicpc.net/problem/1934)
+- 백준 1978번 : [소수 찾기](https://www.acmicpc.net/problem/1978)
+- 백준 11653번 : [소인수분해](https://www.acmicpc.net/problem/11653)
