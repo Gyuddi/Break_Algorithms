@@ -1,7 +1,8 @@
 # 📚 이주의 문제 - Two pointers, Sliding window
-참고 자료 - 투 포인터 -> https://www.lifencoding.com/algorithm/13?p=1
-            슬라이딩 윈도우 -> https://jie0025.tistory.com/202
-            + 슬라이딩 윈도우는 쉬운 개념이라 자료가 좋은 자료가 없네용 ㅎㅎ..
+참고 자료 
+투 포인터 -> https://www.lifencoding.com/algorithm/13?p=1
+슬라이딩 윈도우 -> https://jie0025.tistory.com/202
++ 슬라이딩 윈도우는 쉬운 개념이라 자료가 좋은 자료가 없네용 ㅎㅎ..
 
 # 백엔드
 - 인프런 03-01번 : 두 배열 합치기(two pointers algorithm)
