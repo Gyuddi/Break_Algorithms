@@ -84,7 +84,4 @@ console.log(Math.min(...countArray));
 
 //짝수 홀수 비교를 잘못했음
 
-// '/dev/stdin'
-// [Solved✌🏻]낙준_최대, 최소
 
-// BOJ_10818_N.java
