@@ -26,7 +26,6 @@
 
 
 ### 규현
-- 인프런 03-01번 : 두 배열 합치기(two pointers algorithm)
 - 인프런 03-02번 : 공통원소구하기(two pointers algorithm)
 - 인프런 03-03번 : 최대 매출(Sliding window)
 - 인프런 03-04번 : 연속부분수열(복합적 문제)
