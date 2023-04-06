@@ -30,4 +30,3 @@
 - 인프런 03-02번 : 공통원소구하기(two pointers algorithm)
 - 인프런 03-03번 : 최대 매출(Sliding window)
 - 인프런 03-05번 : 연속된 자연수의 합(two pointers)
-- 인프런 03-05번 : 연속된 자연수의 합(수학)
