@@ -17,14 +17,13 @@
 
 
 # 프론트
-- 인프런 05-01번  두 배열 합치기(Two Pointers Algorithm)
-- 인프런 05-02번 공통원소구하기(Two Pointers Algorithm)
-- 인프런 05-03번 연속부분수열1(Two Pointers Algorithm)
-- 인프런 05-04번 연속부분수열2(Two Pointers Algorithm)
-- 인프런 05-05번 최대 매출(Sliding Window)
-- 인프런 05-06번 학급 회장(Hash Map)
-- 인프런 05-07번 아나그램(Hash Map)
-- 인프런 05-08번 모든 아나그램 찾기(Hash & Sliding Window && Two Pointers Algorithm)
+- 인프런 06-01번 올바른 괄호(스택)
+- 인프런 06-02번 괄호 문자 제거(스택)
+- 인프런 06-03번 크레인 인형뽑기(스택)
+- 인프런 06-04번 후위식 (postfix) 연산(스택)
+- 인프런 06-05번 쇠막대기(스택)
+- 인프런 06-06번 공주구하기(큐)
+- 인프런 06-07번 교육과정설계(큐)
 
 ## 지각쟁이 경배
 
