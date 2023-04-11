@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>출력결과</title>
+  </head>
+  <body>
+    <script>
+      function solution(str1, str2) {
+        let answer = "YES";
+        let SH = new Map();
+        for (let i of str1) {
+          if (SH.has(i)) SH.set(i, SH.get(i) + 1);
+          else SH.set(i, 1);
+        }
+        console.log(SH);
+
+        for (let i of str2) {
+          if (!SH.has(i) || SH.get(i) === 0) return "NO";
+          SH.set(i, SH.get(i) - 1);
+        }
+        return answer;
+      }
+
+      let a = "AbaAeCe";
+      let b = "baeeACA";
+      console.log(solution(a, b));
+    </script>
+  </body>
+</html>
