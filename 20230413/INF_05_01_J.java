@@ -1,5 +1,5 @@
 import java.util.*;
-class Main {	
+class INF_05_01_J {	
 	public String solution(String str){
 		String answer="YES";
 		Stack<Character> stack=new Stack<>();
