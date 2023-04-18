@@ -1,0 +1,27 @@
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>출력결과</title>
+  </head>
+  <body>
+    <script>
+      function solution(s) {
+        let answer = "YES";
+        s = s.toLowerCase();
+        let len = s.length;
+
+        // 리버스 하는 방법
+        console.log(s.split(" ").reverse().join(""));
+
+        // 첫번째와 마지막을 비교하는 방법
+        for (let i = 0; i < Math.floor(len / 2); i++) {
+          if (s[i] !== s[len - i - 1]) return "NO";
+        }
+        return answer;
+      }
+
+      let str = "gooG";
+      console.log(solution(str));
+    </script>
+  </body>
+</html>
