@@ -5,7 +5,7 @@
 - 인프런 07-02번 이진수 출력(재귀)
 - 인프런 07-03번 팩토리얼
 - 인프런 07-04번 피보나치 재귀(메모이제이션)
-- 인프런 07-05번 https://www.acmicpc.net/problem/1991
+- 인프런 07-05번 [https://www.acmicpc.net/problem/1991]
 - 인프런 07-06번 부분집합 구하기(DFS)
 - 인프런 07-07번 이진트리 레벨탐색(BFS : Breadth-First Search)
 - 인프런 07-08번 송아지 찾기1(BFS)
