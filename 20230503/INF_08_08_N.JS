@@ -20,4 +20,4 @@ function solution(n, m) {
   }
 }
 
-solution(4, 2);
+solution(4, 2);2
